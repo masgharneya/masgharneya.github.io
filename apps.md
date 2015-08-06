@@ -6,6 +6,8 @@ permalink: /apps/
 
 ------
 
+<img src="/img/idiotbox_icon.png" style="float:right;" width="140"/>
+
 ### [The Idiot Box - TV Tracking App](https://itunes.apple.com/us/app/the-idiot-box-tv-tracking-app/id735778179?mt=8)
 
 Track your progress on TV shows.  
