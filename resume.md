@@ -10,16 +10,17 @@ permalink: /resume/
 
 ### Profile {#profile}
 
-Self-motivated and very passionate about iOS development. I have developed 5 apps in the App Store in the span of my career.
+Self-motivated and very passionate about iOS development. 
+In the span of my career, I have developed 5 apps currently in the App Store.
 
 ------
 
 ### Skills {#skills}
 
-Objective-C | Swift (beginner) | Xcode | watchOS
-Persistence | Core Data | MMRecord | Mantle 
-TeamCity | Stash | Cocoapods | Git
-JIRA | Version One | Agile/Scrum | Code Reviews
+Objective-C | Swift (beginner) | Xcode
+watchOS | Core Data | Cocoapods 
+TeamCity | Stash | Git
+JIRA | Agile/Scrum | Code Reviews
 
 ------
 
@@ -52,12 +53,16 @@ as well as the ability to VPN into internal websites. (Customized UIWebview, NSU
 #### [AT&T](http://www.att.com), Atlanta, GA
 
 ##### *Applications Developer* <span style="float:right;">*June 2010 to September 2011*</span>
-- Developed for, maintained, and supported web service features for an AT&T enterprise network provisioning and inventory system (IDIS)
-- Practiced test-driven development; increased code coverage for IDIS (_Integrated Design and Inventory System_) web service operations
-- Contributed to the AT&T Intellectual Property portfolio; listed as a creator for a patent currently in the filing process
+- Developed and supported Java web services features for an AT&T enterprise network provisioning and inventory system
 - Expanded an Arduino development program to Atlanta with the Junior Achievement
 - Produced and edited a fundraiser production with AT&T management and raised over $7000 for United Way
 - Awarded _Social Innovator_ for contribution to AT&T U-verse
+
+<!-- 
+- Practiced test-driven development; increased code coverage for IDIS (_Integrated Design and Inventory System_) web service operations
+- Contributed to the AT&T Intellectual Property portfolio; listed as a creator for a patent currently in the filing process
+ -->
+
 
 ------
 
