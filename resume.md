@@ -8,19 +8,18 @@ permalink: /resume/
 
 ------
 
-### Objective {#objective}
+### Profile {#profile}
 
-Build great iOS apps.
-<!-- Seeking a full-time position as a iOS Developer. Three years of iOS development experience. Very familiar with Objective-C and currently learning Swift. Helped build 5 apps currently in the App Store. -->
+Self-motivated and very passionate about iOS development. I have developed 5 apps in the App Store in the span of my career.
 
 ------
 
 ### Skills {#skills}
 
-Objective-C | Xcode | Git
-Sourcetree | Core Data | iOS
-watchOS | TeamCity | Stash
-JIRA | Cocoapods |
+Objective-C | Swift (beginner) | Xcode | watchOS
+Persistence | Core Data | MMRecord | Mantle 
+TeamCity | Stash | Cocoapods | Git
+JIRA | Version One | Agile/Scrum | Code Reviews
 
 ------
 
@@ -29,16 +28,19 @@ JIRA | Cocoapods |
 #### [Autotrader](http://www.autotrader.com), Atlanta, GA
 
 ##### *iOS Developer* <span style="float:right;">*November 2014 to present*</span>
-- Built watchOS application and won first place in Autotrader hackathon
-- Built in-house Pod spec repo and first Objective-C web service API
-- Inherited TIM code and released it to app store. Performed security audit.
-- Participated in daily standup, grooming, sizing meetings for Showroom app
+- Developer on Autotrader iOS application within a team following Scrum methodologies.
+- Built internal Podspec repository and reusable iOS SDK company's REST API.
+- Won first place in company's hackathon by creating a watchOS companion application.
+- Maintained Autotrader's Trade-In Tool for Dealers iOS app. 
   
 #### [AirWatch](http://www.air-watch.com), Atlanta, GA
 
 ##### *iOS Developer* <span style="float:right;">*January 2013 to November 2014*</span>
-- Lead developer on two iOS applications. Conducted code reviews in order to maintain code quality. Was fully involved with every aspect from planning a feature with PM, development, localization, App Store submission, etc.
-- Browser, an alternative to Safari that provides higher level of customization as well as the ability to VPN into internal websites. (Customized UIWebview, NSURLProtocol)
+- Lead developer on two iOS applications. Conducted code reviews in order 
+to maintain code quality. Was fully involved with every aspect from planning a feature 
+with PM, development, localization, App Store submission, etc.
+- Browser, an alternative to Safari that provides higher level of customization 
+as well as the ability to VPN into internal websites. (Customized UIWebview, NSURLProtocol)
 - Chat, a secure messaging application with Active Directory integration (Core Data, WebSockets)
 
 #### [Hewlett Packard](http://www.hp.com/country/us/en/uc/welcome.html) (Internship), Austin, TX
@@ -64,17 +66,21 @@ JIRA | Cocoapods |
 #### [Georgia Institute of Technology](http://www.gatech.edu)
 
 ##### *M.S., Computer Science specializing in Machine Learning* <span style="float:right;">*Graduated December 2012*</span>
+<!-- 
 - Final GPA: 3.57
+ -->
 
 ##### *Research Assistant, [comp.social lab](http://comp.social.gatech.edu)* <span style="float:right;">*January 2012 to December 2012*</span>
+<!-- 
 - Collaborated with Yahoo! Research to detect breaking news early through social networks
 - Explored possible improvements to topic modeling in microblogs
+ -->
 
 ##### *B.S., Computer Science* <span style="float:right;">*Graduated May 2010*</span>
-- Overall GPA: 3.45 - High Honors
+<!-- - Overall GPA: 3.45 - High Honors -->
 
 ##### *Teaching Assistant, [College of Computing](http://www.cc.gatech.edu)* <span style="float:right;">*January 2009 to May 2010*</span>
-- Taught and explained the basics of Software Engineering through group projects coded in Smalltalk. Responsible for holding weekly office hours, proctoring exams, and grading assignments
+<!-- - Taught and explained the basics of Software Engineering through group projects coded in Smalltalk. Responsible for holding weekly office hours, proctoring exams, and grading assignments -->
 
 ------
 
