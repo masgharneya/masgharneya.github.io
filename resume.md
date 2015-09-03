@@ -30,7 +30,7 @@ JIRA | Agile/Scrum | Code Reviews
 
 ##### *iOS Developer* <span style="float:right;">*November 2014 to present*</span>
 - Developer on Autotrader iOS application within a team following Scrum methodologies.
-- Built internal Podspec repository and reusable iOS SDK company's REST API.
+- Built internal Podspec repository and reusable iOS SDK for company's REST API.
 - Won first place in company's hackathon by creating a watchOS companion application.
 - Maintained Autotrader's Trade-In Tool for Dealers iOS app. 
   
